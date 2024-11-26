@@ -4,6 +4,7 @@ To use the macro, simply download the file "The OMNIMACRO.py" and move it to you
 Download python 3 interpreter from the web
 Going into the terminal, type
 "pip3 install pynput"
+
 --------------------------------------------------- (This is an example)
 Last login: Sat Nov 23 09:27:04 on console
 junxiliu@Junxis-MacBook-Air ~ % pip3 install pynput
