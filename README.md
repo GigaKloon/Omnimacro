@@ -11,5 +11,5 @@ junxiliu@Junxis-MacBook-Air ~ % pip3 install pynput
 And then run:
 ---------------------------------------------------
 Last login: Sat Nov 23 09:27:04 on console
-junxiliu@Junxis-MacBook-Air ~ % python3 /Users/<Your Name>/<Documents>/The OMNIMACRO.py
+junxiliu@Junxis-MacBook-Air ~ % python3 /Users/Your Name/Documents/The OMNIMACRO.py
 ---------------------------------------------------
