@@ -5,12 +5,14 @@ Download python 3 interpreter from the web
 Going into the terminal, type
 "pip3 install pynput"
 
---------------------------------------------------- (This is an example)
+---------------------------------------------------
+(This is an example)
 Last login: Sat Nov 23 09:27:04 on console
 junxiliu@Junxis-MacBook-Air ~ % pip3 install pynput
 ---------------------------------------------------
 And then run:
---------------------------------------------------- (This is also an example)
+---------------------------------------------------
+(This is also an example)
 Last login: Sat Nov 23 09:27:04 on console
 junxiliu@Junxis-MacBook-Air ~ % python3 /Users/Your Name/Documents/The OMNIMACRO.py
 ---------------------------------------------------
