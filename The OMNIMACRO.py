@@ -79,6 +79,7 @@ def AustinShroom(times, plots): # I haven't tested this
     keyboard.press(Key.enter)
     time.sleep(0.4)
     keyboard.release(Key.enter)
+    wawwawe
 
 
 def open_new_window(window_to_hide, window_to_show):
